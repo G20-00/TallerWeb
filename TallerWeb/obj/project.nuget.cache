@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aTwiBlsnZ4L1Fa0lKpkSYC7hHYoXC8mutPLmatX9DLbY2W67SOGP38cDEqN2k9OAffvZQeGYq2jttCsplMyHZQ==",
+  "dgSpecHash": "YAwwqphe0wkcR/S8gPfrPGhhJNgXwSwhMRrNvBhaJPAQtLZtUg5FVIWrQegQ7vjdyWH2V1n4u6fEDnhymE7xKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\TallerWeb\\TallerWeb\\TallerWeb.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\TallerWeb\\TallerWeb\\TallerWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

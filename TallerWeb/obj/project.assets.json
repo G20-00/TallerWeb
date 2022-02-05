@@ -9427,11 +9427,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\TallerWeb\\TallerWeb\\TallerWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\TallerWeb\\TallerWeb\\TallerWeb.csproj",
       "projectName": "TallerWeb",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\TallerWeb\\TallerWeb\\TallerWeb.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\TallerWeb\\TallerWeb\\TallerWeb.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\TallerWeb\\TallerWeb\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\TallerWeb\\TallerWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
