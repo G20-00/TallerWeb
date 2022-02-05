@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TallerWeb"
+    "\\TallerWeb",
+    "\\TallerWeb\\Data"
   ],
   "SelectedNode": "\\TallerWeb.sln",
   "PreviewInSolutionExplorer": false

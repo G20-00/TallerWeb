@@ -1,4 +1,11 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Logging;
+using TallerWeb.Models;
+using System;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using TallerWeb.Data;
 var builder = WebApplication.CreateBuilder(args);
@@ -29,3 +36,4 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.Run();
+
