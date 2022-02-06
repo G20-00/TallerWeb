@@ -15,18 +15,18 @@ namespace TallerWeb.Pages.User
     {
         private readonly TallerWeb.Data.TallerWebContext _context;
 
-        public LoginModel(TallerWeb.Data.TallerWebContext context)
-        {
-            _context = context;
-        }
+        //public LoginModel(TallerWeb.Data.TallerWebContext context)
+        //{
+        //    _context = context;
+      //  }
 
         public IActionResult OnGet()
         {
             return Page();
         }
 
-        [BindProperty]
-        public Users Users { get; set; }
+        //[BindProperty]
+        //public Users Users { get; set; }
 
         // To protect from overposting attacks, see https://aka.ms/RazorPagesCRUD
         public async Task<IActionResult> OnPostAsync()
@@ -36,8 +36,8 @@ namespace TallerWeb.Pages.User
                 return Page();
             }
 
-            _context.Users.Add(Users);
-            await _context.SaveChangesAsync();
+          //  _context.Users.Add(Users);
+            //await _context.SaveChangesAsync();
 
             return RedirectToPage("Index");
         }
