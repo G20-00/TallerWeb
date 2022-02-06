@@ -14,7 +14,8 @@ namespace TallerWeb.Pages
 
         public void OnGet()
         {
-
+            
         }
+      
     }
 }

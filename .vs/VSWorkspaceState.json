@@ -2,7 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\TallerWeb",
-    "\\TallerWeb\\Data"
+    "\\TallerWeb\\Data",
+    "\\TallerWeb\\Pages",
+    "\\TallerWeb\\Pages\\Shared",
+    "\\TallerWeb\\Pages\\User"
   ],
   "SelectedNode": "\\TallerWeb.sln",
   "PreviewInSolutionExplorer": false
