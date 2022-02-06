@@ -3,10 +3,11 @@
     "",
     "\\TallerWeb",
     "\\TallerWeb\\Data",
+    "\\TallerWeb\\Models",
+    "\\TallerWeb\\obj",
     "\\TallerWeb\\Pages",
-    "\\TallerWeb\\Pages\\Shared",
-    "\\TallerWeb\\Pages\\User"
+    "\\TallerWeb\\Properties"
   ],
-  "SelectedNode": "\\TallerWeb.sln",
+  "SelectedNode": "\\TallerWeb\\Models\\Users.cs",
   "PreviewInSolutionExplorer": false
 }
